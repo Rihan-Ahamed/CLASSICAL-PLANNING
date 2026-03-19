@@ -1,7 +1,7 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
 
-### Name : BALAMURUGAN P
-### Reg. No : 212224040044
+### Name : RIHAN AHAMED S
+### Reg. No : 212224040276
 
 ## Algorithm or Steps Involved:
 <ol>
